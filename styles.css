@@ -1,0 +1,60 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+}
+.wrapper {
+    width: 50%;
+    margin: 0 auto;
+}
+nav {
+    height: 4em;
+    background-color: #24292e;
+}
+.search {
+    padding-top: 1.2em;
+    margin-right: 0;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+input {
+    background-color: #f9f9f9;
+    border-radius: 3px;
+    font-weight: 400;
+}
+button {
+    background-color: #28a745;
+    border-radius: 3px;
+    border: 1px solid #205642;
+    color:#fff;
+    font-weight: 600;
+    
+}
+
+#personalInfo {
+    height: 100px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+#personalInfo img{
+    height: 100%;
+}
+#personalInfo span{
+    display: block;
+}
+
+#list {
+    height: 100px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+
+#list span{
+    display: block;
+}
